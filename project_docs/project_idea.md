@@ -7,6 +7,6 @@ tag them with categories or keywords and generate summaries or related ideas usi
 
 This will be a personal productivity tool aimed at helping users organize and expand on their thoughts.
 
-I want to keep this app simple. It only provide the features I've described above.
+I want to keep this app simple. It only provides the features I've described above.
 
 It shouldn't need to communicate with any external services, such as a remote database or API.
